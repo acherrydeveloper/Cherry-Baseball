@@ -95,6 +95,16 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.header{
+    background: blue;
+}
+.main{
+    background: green;
+}
+
+.nav{
+    background:red;
+}
 
 
 
